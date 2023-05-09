@@ -1,0 +1,12 @@
+.\objects\stm32f4xx_it.o: ..\File\USER\stm32f4xx_it.c
+.\objects\stm32f4xx_it.o: ..\File\FreeRTOS\include\FreeRTOS.h
+.\objects\stm32f4xx_it.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\stm32f4xx_it.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\stm32f4xx_it.o: ..\File\USER\FreeRTOSConfig.h
+.\objects\stm32f4xx_it.o: ..\File\FreeRTOS\include\projdefs.h
+.\objects\stm32f4xx_it.o: ..\File\FreeRTOS\include\portable.h
+.\objects\stm32f4xx_it.o: ..\File\FreeRTOS\include\deprecated_definitions.h
+.\objects\stm32f4xx_it.o: ..\File\FreeRTOS\portable\RVDS\ARM_CM4F\portmacro.h
+.\objects\stm32f4xx_it.o: ..\File\FreeRTOS\include\mpu_wrappers.h
+.\objects\stm32f4xx_it.o: ..\File\FreeRTOS\include\task.h
+.\objects\stm32f4xx_it.o: ..\File\FreeRTOS\include\list.h
